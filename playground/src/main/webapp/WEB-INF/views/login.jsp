@@ -17,7 +17,7 @@
     <div class="login-form">
       <div class="sign-in-htm">
         <div class="group">
-          <label for="user" class="label">Username</label>
+          <label for="user" class="label">Id</label>
           <input id="user" type="text" class="input">
         </div>
         <div class="group">
